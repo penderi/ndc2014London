@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ndc2014-osx/NdcProtocol.cs">
+    <Files>
+      <File FileName="ndc2014-osx/Main.cs" Line="1" Column="1" />
+      <File FileName="ndc2014-osx/MainWindowController.cs" Line="29" Column="29" />
+      <File FileName="ndc2014-osx/NdcProtocol.cs" Line="4" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ianpendert/dev/git-ip/stuff/ndc/ndc 2014/ndc2014-osx/ndc2014-osx/NdcProtocol.cs" line="27" column="4" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
